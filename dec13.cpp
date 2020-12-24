@@ -7,14 +7,14 @@ using namespace std;
 
 int main(){
     //part 1
-    int earliest = 1000655;
+    /*int earliest = 1000655;
     int short_buses[9] = {17,37,571,13,23,29,401,41,19};
     while(true){
         for (int i = 0; i<9; i++){
             if (earliest%short_buses[i]==0) {cout << short_buses[i]*(earliest-1000655)<< endl; return 0;}
         }
         earliest++;
-    }
+    }*/
 
     //part 2
     int numbers = 68;
